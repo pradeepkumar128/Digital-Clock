@@ -24,12 +24,11 @@ body {
 }
 
 .mainBox {
- 
   width: 100%;
   text-align: center;
   display: flex;
   justify-content: center;
-  align-items: center; 
+  align-items: center;
 }
 
 .clockArea {
@@ -37,5 +36,4 @@ body {
   font-size: 9.9em;
   padding: 42px;
 }
-
 
